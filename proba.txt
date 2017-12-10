@@ -1,2 +1,0 @@
-Ovo je probni fajl za git
-<h1>Ovo je probni fajl za git/h1>
